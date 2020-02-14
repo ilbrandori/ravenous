@@ -1,3 +1,7 @@
+## Codecademy ravenous Part 4
+This project is Part 4 of Codecademy's React course (instructions followed as of February 2020).
+Please feel free to roam around and compare your code with mine. Hope this helps!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
